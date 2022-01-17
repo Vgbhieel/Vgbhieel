@@ -2,14 +2,14 @@
 # Vitor Nascimento (Vg/Vgbhieel)
 ## About me
 
-> * 21y
+> * 22y
 > * Android Developer
 > * From Rio de Janeiro, living in São Paulo
 > * System Analysis and Development, Unigranrio
 
 ## Interests and Activities
 
-> - :desktop_computer: I'm currently working as Android Developer at Santander Tecnologia e Inovação.
+> - :desktop_computer: I'm currently working as Android Developer at Itaú Unibanco.
 > - 📫 My LinkedIn profile [![Linkedin Badge](https://img.shields.io/badge/-here-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vgbhieel/)](https://www.linkedin.com/in/vgbhieel/).
 
 ## Stats
