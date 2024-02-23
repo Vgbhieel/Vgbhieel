@@ -2,10 +2,9 @@
 # Vitor Nascimento (Vg/Vgbhieel)
 ## About me
 
-> * 22y
+> * 24y
 > * Android Developer
 > * From Rio de Janeiro, living in São Paulo
-> * System Analysis and Development, Unigranrio
 
 ## Interests and Activities
 
